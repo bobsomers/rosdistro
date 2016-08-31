@@ -532,7 +532,7 @@ python-debian:
     vivid: [python-debian]
     vivid_python3: [python3-debian]
 python-defusedxml:
-  arch: [python-defusedxml]
+  arch: [python2-defusedxml]
   debian: [python-defusedxml]
   fedora: [python-defusedxml]
   gentoo: [dev-python/defusedxml]
