@@ -2237,7 +2237,7 @@ libqd-dev:
   macports: [qd]
   ubuntu: [libqd-dev]
 libqglviewer-qt4:
-  arch: [libqglviewer-qt4]
+  arch: []
   debian:
     jessie: [libqglviewer2]
     wheezy: [libqglviewer-qt4-2]
